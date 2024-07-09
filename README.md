@@ -18,7 +18,7 @@ Traffic-Rules-Violation-Detection is a project aimed at using computer vision te
 ## Project Structure
 
 ```bash
-### Directory Structure Details
+
 ├── data/
 │   ├── helmets/
 │   ├── triple_riding/
