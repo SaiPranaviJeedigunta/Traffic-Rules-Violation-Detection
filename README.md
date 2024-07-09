@@ -13,23 +13,6 @@ This project aims to detect and classify various traffic violations using comput
 - **Speed Detection**: Estimates vehicle speed using computer vision techniques.
 - **Custom Dataset**: Includes custom datasets for training and evaluation.
 
-## Usage
-
-1. **Installation**:
-   - Clone the repository and navigate into it.
-   - Set up a virtual environment and install dependencies.
-
-2. **Running the App**:
-   - Run `python app.py`.
-   - Open your web browser and go to `http://localhost:5000`.
-
-3. **Upload an Image**:
-   - Choose an image file containing traffic scenes.
-   - Click "Upload" to detect violations.
-
-4. **View Results**:
-   - See detected objects and violations overlaid on the uploaded image.
-
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request.
