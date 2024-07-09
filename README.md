@@ -17,15 +17,15 @@ This project aims to detect and classify various traffic violations using comput
 
 **Installation:**
 
-- **Clone the repository and navigate into it.
+- Clone the repository and navigate into it.
 Set up a virtual environment and install dependencies.
 Running the App:
 
-- ** Run python app.py.
+-  Run python app.py.
 Open your web browser and go to http://localhost:5000.
 Upload an Image:
 
-- **Choose an image file containing traffic scenes.
+- Choose an image file containing traffic scenes.
 Click "Upload" to detect violations.
 View Results:
 
