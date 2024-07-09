@@ -13,38 +13,6 @@ This project aims to detect and classify various traffic violations using comput
 - **Speed Detection**: Estimates vehicle speed using computer vision techniques.
 - **Custom Dataset**: Includes custom datasets for training and evaluation.
 
-## Project Structure
-
-```
-├── data/
-│   ├── helmets/
-│   ├── triple_riding/
-│   ├── mobile_usage/
-│   ├── overspeeding/
-├── models/
-│   ├── yolov3.cfg
-│   ├── yolov3.weights
-│   ├── yolov3.yaml
-├── notebooks/
-│   ├── Data_Preprocessing.ipynb
-│   ├── Model_Training.ipynb
-├── src/
-│   ├── detection.py
-│   ├── speed_detection.py
-│   ├── utils.py
-├── static/
-│   ├── detections/
-│   ├── uploads/
-├── templates/
-│   ├── index.html
-│   ├── uploaded.html
-├── .gitignore
-├── LICENSE
-├── README.md
-├── app.py
-├── requirements.txt
-```
-
 ## Usage
 
 1. **Installation**:
