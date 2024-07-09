@@ -15,28 +15,27 @@ Traffic-Rules-Violation-Detection is a project aimed at using computer vision te
 - **Custom Dataset**: Includes custom datasets for training and evaluation.
 
 
-### Directory Structure Details
+## Project Structure
 
 ├── data/
 │   ├── helmets/
 │   ├── triple_riding/
 │   ├── mobile_usage/
-│   ├── overspeeding/
+│   └── overspeeding/
 ├── models/
 │   ├── yolov3.cfg
 │   ├── yolov3.weights
-│   ├── yolov3.yaml
+│   └── yolov3.yaml
 ├── notebooks/
 │   ├── Bounding_the_images.ipynb
 │   ├── Object_Detection_using_YOLO.ipynb
 │   ├── Training.ipynb
 │   ├── Triple_Riding.ipynb
 │   ├── Violation_Detection.ipynb
-│   ├── yolo_detection_script.ipynb
+│   └── yolo_detection_script.ipynb
 ├── .gitignore
 ├── LICENSE
-├── README.md
-
+└── README.md
   
 ## Contributing
 
