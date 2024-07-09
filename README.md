@@ -1,6 +1,7 @@
 # Traffic-Rules-Violation-Detection
 
-This project aims to detect and classify various traffic violations using computer vision techniques. It includes detection for the following violations:
+Traffic-Rules-Violation-Detection is a project aimed at using computer vision techniques to detect and classify various traffic violations. It leverages object detection and speed estimation methods to enhance traffic monitoring and enforcement.
+
 
 - **No Helmet Violation**
 - **Triple Riding Violation**
