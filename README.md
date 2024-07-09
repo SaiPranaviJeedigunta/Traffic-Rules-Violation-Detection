@@ -17,30 +17,28 @@ Traffic-Rules-Violation-Detection is a project aimed at using computer vision te
 
 ## Project Structure
 
-echo "### Directory Structure Details" > README.md
-echo "\`\`\`" >> README.md
-echo "├── data/" >> README.md
-echo "│   ├── helmets/" >> README.md
-echo "│   ├── triple_riding/" >> README.md
-echo "│   ├── mobile_usage/" >> README.md
-echo "│   └── overspeeding/" >> README.md
-echo "├── models/" >> README.md
-echo "│   ├── yolov3.cfg" >> README.md
-echo "│   ├── yolov3.weights" >> README.md
-echo "│   └── yolov3.yaml" >> README.md
-echo "├── notebooks/" >> README.md
-echo "│   ├── Bounding_the_images.ipynb" >> README.md
-echo "│   ├── Object_Detection_using_YOLO.ipynb" >> README.md
-echo "│   ├── Training.ipynb" >> README.md
-echo "│   ├── Triple_Riding.ipynb" >> README.md
-echo "│   ├── Violation_Detection.ipynb" >> README.md
-echo "│   └── yolo_detection_script.ipynb" >> README.md
-echo "├── .gitignore" >> README.md
-echo "├── LICENSE" >> README.md
-echo "└── README.md" >> README.md
-echo "\`\`\`" >> README.md
-
-
+```bash
+### Directory Structure Details
+├── data/
+│   ├── helmets/
+│   ├── triple_riding/
+│   ├── mobile_usage/
+│   └── overspeeding/
+├── models/
+│   ├── yolov3.cfg
+│   ├── yolov3.weights
+│   └── yolov3.yaml
+├── notebooks/
+│   ├── Bounding_the_images.ipynb
+│   ├── Object_Detection_using_YOLO.ipynb
+│   ├── Training.ipynb
+│   ├── Triple_Riding.ipynb
+│   ├── Violation_Detection.ipynb
+│   └── yolo_detection_script.ipynb
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request.
