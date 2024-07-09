@@ -15,22 +15,21 @@ This project aims to detect and classify various traffic violations using comput
 
 ## Usage
 
-**Installation:**
+1. **Installation**:
+   - Clone the repository and navigate into it.
+   - Set up a virtual environment and install dependencies.
 
-- Clone the repository and navigate into it.
-Set up a virtual environment and install dependencies.
-Running the App:
+2. **Running the App**:
+   - Run `python app.py`.
+   - Open your web browser and go to `http://localhost:5000`.
 
--  Run python app.py.
-Open your web browser and go to http://localhost:5000.
-Upload an Image:
+3. **Upload an Image**:
+   - Choose an image file containing traffic scenes.
+   - Click "Upload" to detect violations.
 
-- Choose an image file containing traffic scenes.
-Click "Upload" to detect violations.
-View Results:
-
-- See detected objects and violations overlaid on the uploaded image.
-
+4. **View Results**:
+   - See detected objects and violations overlaid on the uploaded image.
+     
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request.
