@@ -1,8 +1,5 @@
 # Traffic-Rules-Violation-Detection
 
-
-# Traffic Rules Violation Detection
-
 ![Traffic Rules Violation Detection](https://your_image_url_here.jpg)
 
 This project aims to detect and classify various traffic violations using computer vision techniques. It includes detection for the following violations:
