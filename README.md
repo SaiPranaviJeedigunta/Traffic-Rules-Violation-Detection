@@ -29,7 +29,7 @@ Upload an Image:
 Click "Upload" to detect violations.
 View Results:
 
-See detected objects and violations overlaid on the uploaded image.
+- See detected objects and violations overlaid on the uploaded image.
 
 ## Contributing
 
