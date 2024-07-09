@@ -36,7 +36,7 @@ Traffic-Rules-Violation-Detection is a project aimed at using computer vision te
 ├── .gitignore
 ├── LICENSE
 └── README.md
-  
+
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request.
